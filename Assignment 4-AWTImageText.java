@@ -4,7 +4,7 @@ public class AWTImageText extends Frame {
 
     Image img;
 
-    Assignment4_AWTImageText() {
+    AWTImageText() {
 
         setTitle("AWT Example");
         setSize(400,300);
