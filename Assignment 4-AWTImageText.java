@@ -2,7 +2,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-public class Assignment4_AWTImageText extends Frame {
+public class AWTImageText extends Frame {
 
     Image img;
 
